@@ -380,11 +380,8 @@ Includes
 Example:
 
 ```
-images/dashboard1.png
-images/dashboard2.png
-images/dashboard3.png
-images/dashboard4.png
-images/dashboard5.png
+<img width="1004" height="678" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/18417d21-ebf1-427d-a6c7-16b95504ef22" />
+
 ```
 
 ---
