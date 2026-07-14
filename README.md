@@ -375,7 +375,6 @@ Includes
 
 # 📷 Dashboard Preview
 
-> Add screenshots of all five Power BI dashboard pages here.
 
 Example:
 
