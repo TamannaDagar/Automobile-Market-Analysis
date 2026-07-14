@@ -96,19 +96,14 @@ Automobile-Market-Analysis/
 │
 ├── Python/
 │   ├── Data Cleaning.ipynb
-│   ├── Feature Engineering.ipynb
 │   ├── EDA.ipynb
 │   ├── Business Intelligence.ipynb
 │   ├── Hypothesis Testing.ipynb
-│
-├── SQL/
-│   ├── SQL Queries.sql
+│   ├── SQL Queries.ipynb
 │
 ├── Power BI/
-│   ├── Automobile_Market_Analysis.pbix
+│   ├── vehicle_sales.pbix
 │
-├── Report/
-│   ├── Final_Report.pdf
 │
 ├── Images/
 │   ├── Dashboard1.png
